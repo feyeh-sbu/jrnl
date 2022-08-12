@@ -1,3 +1,9 @@
+# Visual Studio
+.vs/
+bin/
+
+### C++ .gitignore template
+
 # Prerequisites
 *.d
 
